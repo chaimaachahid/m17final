@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM ubuntu:mantic-20240216
 MAINTAINER Yavuzlar Web Security Team <iletisim@siberyavuzlar.com>
 LABEL Description="Web Vulnerability Lab by Yavuzlar." \
 License="Mozilla Public License Version 2.0" \
